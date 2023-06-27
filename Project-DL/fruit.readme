@@ -1,0 +1,3 @@
+Projekt na podstawie danych z kaggle: https://www.kaggle.com/datasets/chrisfilo/fruit-recognition
+Projekt miał na celu stworzenie sieci konwolucyjnej która będzie w stanie nauczyć się rozpoznawania owoców na podstawie zdjęć ze zbioru. 
+Dodatkowo stworzona aplikacja pozwala sprawdzić działanie modelu.
