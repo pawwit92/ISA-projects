@@ -1,0 +1,4 @@
+Projekt ML na podstawie danych z kaggle: https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
+Projekt miał na celu sprawdzenie czy klient zrobi u nas zakupy. 
+Kadzda osoba z zespołu wykonała jeden model ML, w moim orzypadku był to xgboost. Dodatkowo stworzona została te aplikacja.
+Dane zostały wcześniej sprawdzone i oczyszczone przez inną osobę w zespole.
